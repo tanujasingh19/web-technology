@@ -1,0 +1,108 @@
+<html>
+<head>
+<title>Institute of Engineering</title>
+</head>
+<body>
+<ul>
+<li><a href="http://my.wm.edu">myWM</a></li>
+<li><a href="http://directory.wm.edu/people/">Directory</a></li>
+<li><a href="http://events.wm.edu">Events</a></li>
+<li><a href="/about/visiting">Visit</a></li>
+<li class="last-side-tactical"><a href="/atoz" id="wm- az">W&amp;M A-Z</a></li>
+</ul>
+</nav>
+<nav id="side_top_nav">
+<ul>
+<li ><a href="/about" id="about" title="About William &#38; Mary">About</a></li>
+<li ><a href="/academics" id="academics" title="InstituteAcademics">Academics</a></li>
+<li ><a href="/admission" id="admission" title="InstituteAdmission &#38; Aid">Admission &#38; Aid</a></li>
+<li ><a href="/research" id="research" title="InstituteResearch">Research</a></li>
+<li ><a href="/campuslife" id="campus" title="InstituteCampus Life">Campus Life</a></li>
+<li ><a href="/news" id="news_events" title="InstituteNews">News</a></li>
+<li><a href="http://www.tribeathletics.com/" id="athletics" title="InstituteAthletics">Athletics</a></li>
+<li><a href="http://www.wmalumni.com/" id="alumni" title="InstituteAlumni">Alumni</a></li>
+<li><a href="/giving" id="giving" title="InstituteGiving">Giving</a></li>
+</ul>
+</nav>
+</div>
+ 
+
+<header id="main-header"><div id="topbar"><a class="action_left icon-font" href="#" id="menu_btn">&#xe9bd;</a><a class="mobile-header-logo" href="index.php"><img alt="William and Mary" id="top_mark" src="img/wm_wordmark_single_line_green.png"/></a><a class="action_right icon-font" href="#" id="search_btn">&#xe986;</a></div>
+<div id="desktop_header">
+
+
+
+<nav id="tactical_nav">
+<ul>
+<li>
+<a href="http://my.wm.edu">myWM</a>
+</li>
+<li>
+<a href="http://directory.wm.edu/people/">Directory</a>
+</li>
+<li>
+<a href="http://events.wm.edu">Events</a>
+</li>
+<li>
+<a href="/about/visiting">Visit</a>
+</li>
+<li>
+<a href="/atoz" id="wm-az">W&amp;M A-Z</a>
+</li>
+</ul>
+<
+</nav>
+
+<nav id="global_nav"><ul><li><a href="/about" id="about" >About</a>
+</li><li><a href="/academics" id="academics" >Academics</a>
+</li><li><a href="/admission" id="admission" >Admission &amp; Aid</a>
+</li><li><a href="/research" id="research" >Research</a>
+</li><li><a href="/campuslife" id="campus" >Campus life</a>
+</li><li><a href="/news" id="news_events" >News</a>
+</li><li><a href="http://www.tribeathletics.com/" id="athletics">Athletics</a>
+</li><li><a href="http://www.wmalumni.com/" id="alumni">Alumni</a>
+</li><li><a href="/giving" id="giving" >Giving</a>
+ 
+</li></ul>
+</nav>
+
+</div>
+<!-- end desktop_header -->
+</header>
+<!-- end main_header -->
+
+
+
+
+<nav class="footer_col" id="audience_links">
+<a href="/alumnigateway">Alumni</a>
+<a href="/currentstudents">Current Students</a>
+<a href="/employers">Employers</a>
+<a href="/facultystaff">Faculty &amp; Staff</a>
+<a href="/parentsandfamilies">Parents &amp; Families</a>
+<a href="/friends">Friends &amp; Neighbors</a>
+</nav>
+<nav class="footer_col" id="additional_links">
+<a href="http://swem.wm.edu">Library</a>
+<a href="/offices/hr/careers">Careers at W&amp;M</a>
+<a href="/offices/compliance/policies">Policies</a>
+<a href="/about/administration/emergency">Emergency Information</a>
+<a href="/aboutthissite">About this Site</a>
+</nav>
+<div id="contact_info">
+<a href="/" class="wordmark">
+<img alt="The College of William and Mary" id="footer_mark" src="/img/wm_wordmark_single_line_white.png"/>
+</a>
+<p>Williamsburg, VA
+<br/>
+<a href="/contactus" class="contact-us">Contact Us</a> All Rights Reserved &#169;
+<span id="footercopyyear"></span>
+</p>
+</div>
+</div>
+ 
+</footer>
+
+<div></div>
+</body>
+</html>
