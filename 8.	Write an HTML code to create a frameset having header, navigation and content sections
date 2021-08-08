@@ -1,0 +1,9 @@
+<html>
+<FRAMESET Rows = "30%,*" >
+<Frame Src="head.html" >
+<FRAMESET Cols = "25%,*">
+<Frame Src="navigation.html" >
+<Frame Src="content.html" >
+</FRAMESET>
+</FRAMESET>
+</html>
