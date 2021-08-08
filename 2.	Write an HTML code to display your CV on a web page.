@@ -1,0 +1,112 @@
+2.	<html>
+<head>
+<title>RESUME | TANUJA SINGH</title>
+</head>
+<body>
+<!-- BEGIN DIV FOR OVERALL BOX -->
+<div id="resume">
+<!-- THIS DIV CENTERS OUR HEADING -->
+
+<h1>TANUJA SINGH</h1>
+<h2>189 GOVINDPURAM, GHAZIABAD</h2>
+<h2>U.P., 201001</h2>
+<br />
+<!-- END CENTERING DIV -->
+</div>
+
+<h2>Profile</h2>
+<p>
+ACADEMICIAN
+</p>
+<br />
+<h2>Education</h2>
+<h3>Bachelor of technology
+<br />
+completing in 2022</h3>
+<p>
+krishna engineering college , mohan nagar ghaziabad
+</p>
+<ul>
+<li>
+Completing an research project
+</li>
+</ul>
+<h3>Research Project</h3>
+<ul>
+<li>
+restaurant management system
+</li>
+</ul> 
+<h3>Bachelor of TECHNOLOGY, C.S.</h3>
+<p>
+AKTU -LUCKNOW 
+</p>
+<ul>
+<li>
+Participated in activities.
+<br />
+<h2>personal details</h2>
+<h3>Engineering student</h3>
+ 
+<p>
+Student
+</p>
+<ul>
+<li>
+ 
+
+</li>
+<li>
+
+</li>
+</ul>
+ 
+student of CSE branch.
+
+ 
+<h3>key skills</h3>
+<p>
+positive attitude
+</p>
+<ul>
+<li>
+ 
+
+</li>
+<li> good communication skills
+</li>
+</ul>
+ can work effectively in team as well as individual.
+ 
+<h3>hobbies</h3>
+<p>
+reading novels
+</p>
+<ul>
+<li>
+ 
+
+
+</li>
+<li>
+
+</li>
+</ul>
+ 
+dancing
+
+dancing is my favourite hobby.
+ 
+
+<!-- THIS DIV CENTERS OUR LINKS -->
+<div id="bottom">
+<p>
+<a href="index.html">RESUME HOME</a> | <a href="#">SIMPLE RESUME</a> | <a href="resume.html">COMPLEX RESUME</a> | <a href="code.html" target="_blank">SEE HTML</a> | <a href="resume.css" target="_blank">SEE CSS</a>
+</p>
+</div>
+<!-- END CENTERING LINKS -->
+
+<!-- END DIV FOR OVERALL BOX -->
+</div>
+</body>
+</html>
