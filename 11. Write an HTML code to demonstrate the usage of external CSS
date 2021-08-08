@@ -1,0 +1,54 @@
+Css
+
+#para1 { color: red;
+text-align: center; font-family:courier;
+}
+
+h1{
+color:blue; font-size:200%; text-align:right;
+background-color: #6495ed;
+}
+
+#para {
+color: green;
+text-align: center; font-size:500%;
+}
+
+p{
+border:1px solid black; padding:10px; margin:30px;
+background-color: #e0ffff;
+}
+
+body {
+
+background-image:url("bird.jpeg");
+
+}
+
+div{
+text-decoration:overline; font-size:200%;
+}
+ 
+
+
+
+Html code
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p id="para">This is a green paragraph.</p>
+<p id="para1">This is a red paragraph.</p>
+
+<p>This is some paragraph.</p>
+
+<div>html is a markup language. it stands for hypertext mark up language. it is used to create web pages. html has a very simple syntax. html uses tags for formatting and for placing objects. html is interpreted by the browser. it is case-insensitive.</div>
+
+</body>
+</html>
+ 
